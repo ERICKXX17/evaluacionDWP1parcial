@@ -1,0 +1,14 @@
+h1 {
+    color: #007bff;
+    text-align: center;
+  }
+  
+  .card {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .table {
+    margin-top: 20px;
+  }
+  
